@@ -18,4 +18,4 @@ Yes, there are 48 retirement-ready employees for each eligable mentee.
 
 In order to prepare financially for taking on new employees I have created two new queries to filter down the average salaries of those that are retiring. The two new tables have been exported with the name "retiring_avg_by_title.csv" and "retiring_salary.csv".
 
-![avg](avg_retiring_salary.png)
+![avg](Data/avg_retiring_salary.png)
